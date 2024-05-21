@@ -2,10 +2,10 @@ package p1;
 
 import org.testng.annotations.Test;
 
-public class pgm1 {
+public class pgm1Test {
 
 	@Test 
-	public void pgm() {
+	public void pgmTest() {
 		System.out.println("JENKINS");
 		
 		
